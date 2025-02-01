@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript where a function expects a number but receives a string. The solution shows how to explicitly type-check the input and handle potential type mismatches.
